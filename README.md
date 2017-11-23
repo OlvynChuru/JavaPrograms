@@ -6,6 +6,10 @@ Alphabet_Check:
 
 This program takes in a string and finds all the distinct letters in the string. It has methods for returning the string that shows the distinct letters, a count of the number of distinct letters, or whether or not it containsall the letters. It can also display all this information. The main method prompts you to enter a string as the input, though you could also call one of the other methods by itself.
 
+If you enter "The earth is yellow." into the main method, it prints out:
+Letters found: A   E  HI  L  O  RST  W Y
+Number of different letters: 11
+All letters found: No
 
 Find_Formula:
 
