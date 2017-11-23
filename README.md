@@ -13,5 +13,6 @@ This program takes in a sequence of numbers and returns a polynomial formula beh
 
 The main method has you type in how many numbers you will input next, then you type in the sequence. The first number in the sequence is f(0), the second is f(1), etc.
 
-If you put "1 2 5 10" in the sequence, it will produce x² + 1.
-If you put "5 7 19 77 241 595" in the sequence, it will produce x⁴ - 2x² + 3x + 5.
+If you put "1 2 5 10" in the sequence, it will produce x² + 1
+
+If you put "5 7 19 77 241 595" in the sequence, it will produce x⁴ - 2x² + 3x + 5
