@@ -1,2 +1,2 @@
 # JavaPrograms
-Java programs I made for fun
+Java programs I made for fun :)
